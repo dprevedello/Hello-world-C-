@@ -1,4 +1,3 @@
-
 /******************************************************************************
 Classico programma introduttivo che permette di scrivere un messaggio di 
 saluto sulla console dell'utente.
